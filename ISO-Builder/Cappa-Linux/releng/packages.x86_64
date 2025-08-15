@@ -148,6 +148,7 @@ gparted
 wmctrl
 lollypop
 ly
+xorg-xauth
 gtk2
 gtk3
 gtk4
