@@ -128,7 +128,8 @@ xfsprogs
 xl2tpd
 zsh
 # Dependancy packages for Calla WM based on Awesome-WM
-calla # Dependancy AUR packages: awesome-git, lua-pam-git
+calla
+# Dependancy AUR packages for Calla-WM: awesome-git, lua-pam-git
 alacritty
 nautilus
 polkit-gnome
