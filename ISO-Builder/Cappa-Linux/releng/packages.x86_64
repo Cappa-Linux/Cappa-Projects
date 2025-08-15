@@ -1,3 +1,4 @@
+# Base packages
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -126,8 +127,8 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
-# Dependancy packages for Calla WM-awesome-wm
-calla
+# Dependancy packages for Calla WM based on Awesome-WM
+calla # Dependancy AUR packages: awesome-git, lua-pam-git
 alacritty
 nautilus
 polkit-gnome
@@ -135,7 +136,6 @@ cbatticon
 blueman
 ttf-roboto
 noto-fonts-emoji
-ttf-material-icons-git
 playerctl
 redshift
 xsettingsd
@@ -145,12 +145,15 @@ gnome-characters
 mousepad
 gparted
 wmctrl
-libinput-gestures
 lollypop
 sddm
 gtk2
 gtk3
 gtk4
+# Dependancy AUR packages for Calla WM based on Awesome WM
+ttf-material-icons-git
+libinput-gestures
+
 # Drivers for GPU
 xf86-video-intel
 xf86-video-amdgpu
