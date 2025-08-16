@@ -150,6 +150,7 @@ lollypop
 firefox
 ly
 xorg-xauth
+networkmanager
 gtk2
 gtk3
 gtk4
