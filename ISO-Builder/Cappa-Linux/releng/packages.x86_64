@@ -159,7 +159,9 @@ gtk4
 # Dependancy AUR packages for Calla WM based on Awesome WM
 ttf-material-icons-git
 libinput-gestures
-
+# Calamares installer
+cappalinux-calamares
+cappalinux-calamares-config-zen
 # Drivers for GPU
 xf86-video-intel
 xf86-video-amdgpu
