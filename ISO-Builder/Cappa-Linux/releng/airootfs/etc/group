@@ -1,0 +1,16 @@
+root:x:0:root
+sys:x:3:bin,cappa
+network:x:90:cappa
+power:x:98:cappa
+adm:x:999:cappa
+wheel:x:998:cappa
+uucp:x:987:cappa
+optical:x:990:cappa
+rfkill:x:983:cappa
+video:x:986:cappa
+storage:x:988:cappa
+audio:x:995:cappa
+users:x:985:cappa
+nopasswdlogin:x:966:cappa
+autologin:x:967:cappa
+cappa:x:1000:
