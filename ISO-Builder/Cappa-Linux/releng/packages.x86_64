@@ -160,8 +160,7 @@ gtk4
 ttf-material-icons-git
 libinput-gestures
 # Calamares installer
-cappalinux-calamares
-cappalinux-calamares-config-zen
+calamares-git
 ckbcomp
 mkinitcpio-openswap
 # Drivers for GPU
