@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "ALL_config='/etc/mkinitcpio.conf'" >> /etc/mkinitcpio.d/linux-zen.preset
