@@ -168,6 +168,8 @@ mkinitcpio-openswap
 enchance-color-screen-tool
 libvibrant
 vibrant-cli
+# Fetch system info
+neofetch-git
 # Drivers for GPU
 xf86-video-intel
 xf86-video-amdgpu
