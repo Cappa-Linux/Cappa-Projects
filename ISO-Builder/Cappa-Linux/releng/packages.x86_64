@@ -168,6 +168,8 @@ mkinitcpio-openswap
 enchance-color-screen-tool
 libvibrant
 vibrant-cli
+# Enchance audio tool
+enchance-audio-tool
 # Fetch system info
 neofetch-git
 # Drivers for GPU
