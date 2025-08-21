@@ -134,7 +134,7 @@ calla
 # Dependancy AUR packages for Calla-WM: awesome-git, lua-pam-git
 alacritty
 nautilus
-polkit-gnome
+cappalinux-polkit-gnome
 cbatticon
 blueman
 ttf-roboto
