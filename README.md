@@ -1,3 +1,7 @@
+<details>
+  <summary>Tree of this repo</summary>
+
+```
 .
 ├── BUILD
 │   └── Storages
@@ -55,3 +59,6 @@
 │           ├── grub
 │           └── syslinux
 └── Scripts
+
+```
+</details>
