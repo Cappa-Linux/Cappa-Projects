@@ -108,6 +108,9 @@ https://github.com/Cappa-Linux/Cappa-Projects/
 ```
 cd Cappa-Projects && ./deploy.sh
 ```
+> [!CAUTION]
+> Before build make sure you change username of path repo in relang/pacman.conf. If no when building ISO will fail and got errors cant sync custom-repo.
+
 5. Move packages and build database of packages
 
 ```
