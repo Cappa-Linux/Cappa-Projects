@@ -83,3 +83,40 @@
 
 ```
 </details>
+
+### Building a ISO
+<details>
+ <summary>Step by step</summary>
+ 
+1. Install some packages before build
+ 
+```
+sudo pacman -Sy --needed archiso
+```
+2. Create a directory for building
+
+```
+mkdir -p ~/Projects && cd Projects
+```
+3. Git clone
+
+```
+https://github.com/Cappa-Linux/Cappa-Projects/
+```
+4. Setup projects folder for building an ISO
+
+```
+cd Cappa-Projects && ./deploy.sh
+```
+5. Move packages and build database of packages
+
+```
+cd Scripts/
+```
+6. Run scripts follow a arrows
+
+```
+./move... .sh --> ./make... .sh --> ./build-iso.sh
+```
+7. Wait and when done check in ~/Projects/Cappa-Projects/BUILD/Templates-Built/out/   <--- ISO will appear here when done!
+</details>
