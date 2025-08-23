@@ -8,13 +8,14 @@
 - Also here is some information about Cappa Linux:
 <div align="center">
  
-| Information Inside Cappa Linux    | Defaults                                |
-|:-------------------------------   |-----------------------------------------|
-|   <strong>Kernel</strong>         | <strong>Zen Kernel (linux-zen)</strong> |
-|   <strong>Audio</strong>          | <strong>Pipewire</strong>               |
-|    <strong>Platform</strong>      | <strong>X11</strong>                    |
-| <strong>Window Manager</strong>   | <strong>Awesome WM (git)                |
-| <strong>Display Managers</strong> | <strong>Ly TUI</strong>                 |
+| Information Inside Cappa Linux         | Defaults                                |
+|:---------------------------------------|-----------------------------------------|
+| <strong>Kernel</strong>                | <strong>Zen Kernel (linux-zen)</strong> |
+| <strong>Audio</strong>                 | <strong>Pipewire</strong>               |
+| <strong>Installer App</strong>         | <strong>Calamares (offline)</strong>    |
+| <strong>Platform</strong>              | <strong>X11</strong>                    |
+| <strong>Window Manager</strong>        | <strong>Awesome WM (git)                |
+| <strong>Display Managers</strong>      | <strong>Ly TUI</strong>                 |
 
 </div>
 
