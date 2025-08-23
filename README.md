@@ -1,5 +1,6 @@
 <div align="center">
  <h2><strong>---- 🐸Welcome to core of Cappa Linux!🐸 ----</strong></h2>
+ <img src="./Screenshots/1.png" alt="Screenshots images">
 </div>
 
 ### Note:
