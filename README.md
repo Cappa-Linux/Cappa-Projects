@@ -11,6 +11,7 @@
  
 | Information Inside Cappa Linux         | Defaults                                |
 |:---------------------------------------|-----------------------------------------|
+| <strong>Supports</strong>              | <strong>UEFI and Legacy BIOS</strong>   |
 | <strong>Kernel</strong>                | <strong>Zen Kernel (linux-zen)</strong> |
 | <strong>Audio</strong>                 | <strong>Pipewire</strong>               |
 | <strong>Installer App</strong>         | <strong>Calamares (offline)</strong>    |
