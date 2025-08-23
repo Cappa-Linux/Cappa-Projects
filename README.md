@@ -6,7 +6,8 @@
 - This repo in now is maintained by me lol. I'm not really sure about other laptop and pc but it's run perfects with my potato laptop without any errors.
 - Fun fact: My first intention when creating this linux distro was to run it as a Live ISO then plug it into a potato school computer and windows 7 in greek times but then I abandoned that idea because for some reason it would overload anytime if i playing on Live ISO minecraft which was integrated in the ISO xd and some how idk why i can make this distro that can install on my laptop xd (don't worry because Minecraft will not inside this iso now lol).
 - Also here is some information about Cappa Linux:
-
+<div align="center">
+ 
 | Information Inside Cappa Linux    | Defaults                                |
 |:-------------------------------   |-----------------------------------------|
 |   <strong>Kernel</strong>         | <strong>Zen Kernel (linux-zen)</strong> |
@@ -15,7 +16,7 @@
 | <strong>Window Manager</strong>   | <strong>Awesome WM (git)                |
 | <strong>Display Managers</strong> | <strong>Ly TUI</strong>                 |
 
-
+</div>
 
 <details>
   <summary>Tree of this repo</summary>
