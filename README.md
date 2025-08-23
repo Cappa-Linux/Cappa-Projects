@@ -1,16 +1,19 @@
+
+### Welcome to core of Cappa Linux!
+
 <details>
   <summary>Tree of this repo</summary>
 
 ```
 .
 ├── BUILD
-│   └── Storages
+│   └── Storages  <--- This folder for storages local packages.
 │       ├── calamares-installer-packages
 │       ├── calla-depend-packages
 │       └── enchance-color-screen-and-audio-tool-packages
-├── ISO-Builder
+├── ISO-Builder  <--- This folder for the setting and config the distro linux.
 │   └── Cappa-Linux
-│       └── releng
+│       └── releng <--- Here is where config of distro was born.
 │           ├── airootfs
 │           │   ├── etc
 │           │   │   ├── default
@@ -58,7 +61,7 @@
 │           │       └── entries
 │           ├── grub
 │           └── syslinux
-└── Scripts
+└── Scripts   <--- This folder for storages some scripts that helping easily to build there config to cappalinux.iso
 
 ```
 </details>
