@@ -157,6 +157,7 @@ networkmanager
 gtk2
 gtk3
 gtk4
+i3lock
 # Dependancy AUR packages for Calla WM based on Awesome WM
 ttf-material-icons-git
 libinput-gestures
