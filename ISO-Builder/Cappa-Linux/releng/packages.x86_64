@@ -173,6 +173,7 @@ libvibrant
 vibrant-cli
 # Enchance audio tool
 enchance-audio-tool
+pavucontrol
 # Fetch system info
 neofetch-git
 # Drivers for GPU
