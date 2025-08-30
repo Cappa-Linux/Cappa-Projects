@@ -132,7 +132,7 @@ base-devel
 # Dependancy packages for Calla WM based on Awesome-WM
 calla
 # Dependancy AUR packages for Calla-WM: awesome-git, lua-pam-git
-alacritty
+cappalinux-alacritty-smooth-cursor
 nautilus
 cappalinux-polkit-gnome
 cbatticon
