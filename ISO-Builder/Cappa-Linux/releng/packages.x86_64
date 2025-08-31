@@ -185,3 +185,5 @@ xf86-video-vesa
 tree
 # AUR tool use when web hosting AUR packages is going down
 pkgbuild-aur-packages-tool
+# OS Information
+os-information
