@@ -189,3 +189,5 @@ pkgbuild-aur-packages-tool
 os-information
 # Lix -Nix- system manager tool
 lix-packages-manager-tool
+# Kitty terminal for testing on virtualbox
+kitty
