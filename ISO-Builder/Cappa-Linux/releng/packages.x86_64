@@ -191,3 +191,5 @@ os-information
 lix-packages-manager-tool
 # Kitty terminal for testing on virtualbox
 kitty
+# Timeshift app for backup systems
+timeshift
