@@ -193,3 +193,5 @@ lix-packages-manager-tool
 kitty
 # Timeshift app for backup systems
 timeshift
+# Lib for touchpad support
+xf86-input-libinput
