@@ -187,8 +187,8 @@ tree
 pkgbuild-aur-packages-tool
 # OS Information
 os-information
-# Lix -Nix- system manager tool
-lix-packages-manager-tool
+# Nix package manager tool
+nix-package-manager-tool
 # Kitty terminal for testing on virtualbox
 kitty
 # Timeshift app for backup systems
