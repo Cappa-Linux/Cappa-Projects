@@ -195,3 +195,5 @@ kitty
 timeshift
 # Lib for touchpad support
 xf86-input-libinput
+# Debloat Cappa Linux tool
+cappalinux-debloat-tool
