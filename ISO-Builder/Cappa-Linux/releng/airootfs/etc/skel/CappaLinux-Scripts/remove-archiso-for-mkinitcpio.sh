@@ -24,4 +24,6 @@ sleep 0.5
 echo "Now we will remove archinstall and arch-install-scripts packages because we will not use it!"
 sleep 0.5
 sudo pacman -Rns archinstall arch-install-scripts
+sleep 0.5
+sudo mkinitcpio -P
 echo "Done! here you go hehe:D"
