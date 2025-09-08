@@ -1,14 +1,9 @@
 #!/bin/bash
-# Check script run with sudo or non.
-if [ "$EUID" -ne 0 ]; then
-  echo "Pls run this script at sudo :("
-  echo "Hey wait.. This scripts maybe you should run if you want to remove there packages: archinstall, arch-install-scripts"
-  echo "Maybe you should run this scripts to avoid some bug of mkinitcpio:D"
-  exit 1
-fi
-
-# When script is running at sudo.
-echo "Script is running at sudo :D"
+echo "Hi there this script is replace mkinitcpio config of kernel zen to new one for avoid issue when add some module to zen kernel with mkinitcpio"
+sleep 0.5
+echo "Don't worry your system will be fine:D"
+sleep 0.5
+echo "Ok here we go heheh:D"
 sleep 0.5
 echo "Let's me remove old mkinitcpio config of kernel zen"
 sleep 0.5
