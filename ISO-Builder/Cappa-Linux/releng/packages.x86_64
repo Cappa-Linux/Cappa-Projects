@@ -189,6 +189,7 @@ pkgbuild-aur-packages-tool
 os-information
 # Nix package manager tool
 nix-package-manager-tool
+hybrid-nix-command-tool
 # Kitty terminal for testing on virtualbox
 kitty
 # Timeshift app for backup systems
